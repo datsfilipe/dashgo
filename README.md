@@ -6,7 +6,7 @@ A dashboard app called Dashgo and made with Chakra UI.
 
 **Preview**:
 
-<p align="center">
+<p>
   <img src="./src/assets/images/PEEKdashgo.gif" alt="Dashgo app" width="850" />
 </p>
 
