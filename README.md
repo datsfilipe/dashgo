@@ -2,6 +2,8 @@
 
 A dashboard app called Dashgo and made with Chakra UI.
 
+**TIP**: The login isn't working, to see the rest of the interface, type dashboard in address.
+
 **Preview**:
 
 <p align="center">
