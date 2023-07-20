@@ -15,7 +15,7 @@ export function Profile ({showProfileData = true}: ProfileProps) {
             Filipe Lima
           </Text>
           <Text color="gray.300" fontSize="small">
-            datsfilipe@gmail.com
+            contato@datsfilipe.dev
           </Text>
         </Box>
       ) }
