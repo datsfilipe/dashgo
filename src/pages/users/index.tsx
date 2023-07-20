@@ -4,10 +4,10 @@ import { Header } from '../../components/Header';
 import { Pagination } from '../../components/Pagination';
 import { Sidebar } from '../../components/Sidebar';
 import Link from 'next/link';
-import { getUsers, useUsers } from '../../services/hooks/useUsers';
+import { useUsers } from '../../services/hooks/useUsers';
 import { useState } from 'react';
 
-export default function UserList (initialData) {
+export default function UserList () {
   const [currentPage, setCurrentPage] = useState(1)
   const { data, isLoading, error, isFetching } = useUsers(currentPage)
   
