@@ -6,6 +6,14 @@ This is a simple dashboard application built with Next.js, Chakra UI and ApexCha
 
 You can view a live demo at [https://dashgo-one-xi.vercel.app](https://dashgo-one-xi.vercel.app).
 
+<br/>
+
+Here is a preview of the application:
+
+![DashGO preview](./src/assets/images/PEEKdashgo.gif)
+
+<br/>
+
 ## Contributing
 
 Contributions are welcome! If you find any bugs or want to enhance the application with new features, feel free to open an issue or submit a pull request.
